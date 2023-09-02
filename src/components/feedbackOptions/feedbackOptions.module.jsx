@@ -1,11 +1,12 @@
 import styled from 'styled-components'
 
-export const list = styled.ul`
+export const List = styled.ul`
 display: flex;
 gap: 10px;
+list-style-type: none;
 `;
 
-export const button = styled.button`
+export const Button = styled.button`
   cursor: pointer;
 
   border-radius: 5px;

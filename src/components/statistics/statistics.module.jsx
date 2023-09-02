@@ -13,5 +13,5 @@ export const SItem = styled.li`
 `
 
 export const Span = styled.span`
-    margin-left: 8px;
+    margin-left: 8px ;
 `
